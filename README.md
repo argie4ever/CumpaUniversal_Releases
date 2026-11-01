@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="240" height="240" alt="CumpaX_logo" src="https://github.com/user-attachments/assets/6c88ae87-6aca-4bf4-8b60-abb7ddd62d08" />
+</p>
+
 # CumpaUniversal
 
 > Herramienta práctica para pasar secuencias y líneas de tiempo entre Final Cut Pro, Premiere Pro, DaVinci Resolve y Pro Tools sin perder sincronía ni cortes.
