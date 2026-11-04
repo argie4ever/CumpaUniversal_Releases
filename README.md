@@ -46,7 +46,7 @@ Resuelve los problemas habituales al intercambiar proyectos entre programas de e
 3. **Primera apertura:** Hacé **clic derecho** sobre CumpaUniversal en Aplicaciones y elegí **Abrir**. En el cartel de seguridad, confirmá haciendo clic en **Abrir**.
 
 #### Windows
-1. Descargá `CumpaUniversal_1.0.0_x64-setup.exe` o `CumpaUniversal_1.0.0_x64_en-US.msi` desde [Releases](../../releases).
+1. Descargá `CumpaUniversal_1.0.1_x64-setup.exe` o `CumpaUniversal_1.0.1_x64_en-US.msi` desde [Releases](../../releases).
 2. Hacé doble clic y completá el asistente habitual de instalación.
 
 ---
