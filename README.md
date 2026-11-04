@@ -41,7 +41,7 @@ Resuelve los problemas habituales al intercambiar proyectos entre programas de e
 ### Instalación
 
 #### macOS
-1. Descargá `CumpaUniversal_1.0.0_universal.dmg` desde [Releases](../../releases).
+1. Descargá `CumpaUniversal_1.0.1_universal.dmg` desde [Releases](../../releases).
 2. Abrí el archivo y arrastrá el ícono a tu carpeta **Aplicaciones**.
 3. **Primera apertura:** Hacé **clic derecho** sobre CumpaUniversal en Aplicaciones y elegí **Abrir**. En el cartel de seguridad, confirmá haciendo clic en **Abrir**.
 
@@ -75,10 +75,10 @@ A dedicated utility designed to seamlessly exchange sequences and timelines betw
 ### Installation
 
 #### macOS
-1. Download `CumpaUniversal_1.0.0_universal.dmg` from [Releases](../../releases).
+1. Download `CumpaUniversal_1.0.1_universal.dmg` from [Releases](../../releases).
 2. Open the disk image and drag **CumpaUniversal** to your **Applications** folder.
 3. **First launch:** **Right-click** the application in Finder and choose **Open**. Confirm by clicking **Open** in the system prompt.
 
 #### Windows
-1. Download `CumpaUniversal_1.0.0_x64-setup.exe` or `CumpaUniversal_1.0.0_x64_en-US.msi` from [Releases](../../releases).
+1. Download `CumpaUniversal_1.0.1_x64-setup.exe` or `CumpaUniversal_1.0.1_x64_en-US.msi` from [Releases](../../releases).
 2. Double-click to run the setup installer.
